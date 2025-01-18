@@ -8,10 +8,6 @@ nav a {
     padding: 20px;
 }
 
-h1 {
-    color: darkblue;
-}
-
 main {
     max-width: 840px;
 }
@@ -45,9 +41,7 @@ color: darkblue;
 
 
 
-p {
-    padding: 0px;   
-}
+p {padding: 0px;}
 
 footer {
     margin-top: 15px;
